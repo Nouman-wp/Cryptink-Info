@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd comprehensive README.md for CryptInk platform\n\nInitialize CryptInk documentation with complete project overview including:\n- Detailed architecture diagrams and system flow\n- Full tech stack specifications (React+Vite, Node.js+Fastify, Solana+Anchor)\n- Complete smart contract implementations for project management, access control, and royalty distribution\n- Sponsor track integration guides (Arcium, Adevar Labs, ASI Agents, Sanctum)\n- AI-powered features (co-writing assistant, reputation system, plagiarism detection)\n- End-to-end encryption flow using Arcium MXE\n- Deployment guide and testing strategy\n- User flows for authors, collaborators, and readers\n- Comprehensive roadmap and contribution guidelines\n\nBuilt for Solana Cypherpunk Hackathon with focus on privacy, security, and decentralized collaboration.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

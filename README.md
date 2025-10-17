@@ -1383,17 +1383,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **Solana Foundation** for hosting the Cypherpunk Hackathon
-- **Arcium** for encrypted compute infrastructure
-- **Fetch.ai & SingularityNET** for ASI agent technology
-- **Adevar Labs** for security audit framework
-- **Sanctum** for reliable RPC infrastructure
-- **Arweave** for permanent storage solutions
-
----
 
 ## 🔗 Quick Links
 
