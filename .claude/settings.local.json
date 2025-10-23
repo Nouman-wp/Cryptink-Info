@@ -5,9 +5,29 @@
       "Bash(git remote add:*)",
       "Bash(git add:*)",
       "Bash(git commit -m \"$(cat <<''EOF''\nAdd comprehensive README.md for CryptInk platform\n\nInitialize CryptInk documentation with complete project overview including:\n- Detailed architecture diagrams and system flow\n- Full tech stack specifications (React+Vite, Node.js+Fastify, Solana+Anchor)\n- Complete smart contract implementations for project management, access control, and royalty distribution\n- Sponsor track integration guides (Arcium, Adevar Labs, ASI Agents, Sanctum)\n- AI-powered features (co-writing assistant, reputation system, plagiarism detection)\n- End-to-end encryption flow using Arcium MXE\n- Deployment guide and testing strategy\n- User flows for authors, collaborators, and readers\n- Comprehensive roadmap and contribution guidelines\n\nBuilt for Solana Cypherpunk Hackathon with focus on privacy, security, and decentralized collaboration.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(dir \"C:\\Users\\nouma\\OneDrive\\Desktop\\CryptInk V1\\UI Teamplate\" /s /b)",
+      "Bash(mv \"C:\\Users\\nouma\\OneDrive\\Desktop\\CryptInk V1\\UI Teamplate\" \"C:\\Users\\nouma\\OneDrive\\Desktop\\CryptInk V1\\frontend\")",
+      "Bash(node -e \"console.log(require(''crypto'').randomBytes(64).toString(''hex''))\")",
+      "Bash(if [ -f \"C:\\Users\\nouma\\OneDrive\\Desktop\\CryptInk V1\\backend\\.env\" ])",
+      "Bash(then echo \"exists\")",
+      "Bash(else echo \"not exists\")",
+      "Bash(fi)",
+      "Bash(npm run dev)",
+      "Bash(pnpm dev)",
+      "Bash(cat \"C:\\Users\\nouma\\OneDrive\\Desktop\\CryptInk V1\\backend\\.env\")",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(curl:*)",
+      "Bash(timeout /t 3)",
+      "Bash(pnpm dev:*)",
+      "Bash(set PORT=3001)",
+      "Bash(pnpm add:*)",
+      "Bash(tasklist:*)"
     ],
     "deny": [],
     "ask": []
-  }
+  },
+  "outputStyle": "default"
 }
